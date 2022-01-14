@@ -1,4 +1,4 @@
-package hj.hj008;
+package nowcoder.hj.hj8;
 
 import java.util.Iterator;
 import java.util.Scanner;

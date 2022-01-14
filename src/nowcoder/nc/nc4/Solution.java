@@ -1,4 +1,4 @@
-package nc.nc4;
+package nowcoder.nc.nc4;
 
 import java.util.HashSet;
 

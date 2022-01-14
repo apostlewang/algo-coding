@@ -1,4 +1,4 @@
-package nc.nc15;
+package nowcoder.nc.nc15;
 
 import java.util.*;
 

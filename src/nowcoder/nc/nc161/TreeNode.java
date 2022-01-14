@@ -1,4 +1,4 @@
-package nc.nc45;
+package nowcoder.nc.nc161;
 
 public class TreeNode {
    int val = 0;
