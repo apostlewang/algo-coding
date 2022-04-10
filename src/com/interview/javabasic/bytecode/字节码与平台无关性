@@ -1,0 +1,8 @@
+
+javac
+编译成class文件
+
+查看class文件
+javap -c
+
+上传Mac中编译好的class文件到Linux中也可以执行（跨平台）
